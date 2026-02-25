@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-08-27T21:36:59Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.1638,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "P1P2_PCB v38"
+        },
+        "Owner": "Krishna Lakkaraju <klakkaraju@wisc.edu>",
+        "Size": {
+            "X": 182,
+            "Y": 139
+        }
+    }
+}

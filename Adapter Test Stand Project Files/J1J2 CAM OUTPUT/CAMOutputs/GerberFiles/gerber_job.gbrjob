@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-08-27T21:42:08Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.2038,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "caps v51"
+        },
+        "Owner": "Krishna Lakkaraju <klakkaraju@wisc.edu>",
+        "Size": {
+            "X": 209.84,
+            "Y": 81.42
+        }
+    }
+}
